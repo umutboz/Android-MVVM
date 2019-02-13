@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Oneframe MVVM Sample</string>
+    <string name="project_name">proje</string>
+    <string name="project_language">dil :%s</string>
+    <string name="project_watchers">takipçiler</string>
+    <string name="loading_projects">projeler yükleniyor ..</string>
+    <string name="google_github_projects">githup projeleri</string>
+    <string name="project_list">proje listesi</string>
+    <string name="project_description">açıklama</string>
+    <string name="open_issues">tartışmalar</string>
+    <string name="loading_project">proje yükleniyor</string>
+    <string name="languages">dil</string>
+    <string name="watchers">takipçiler : %s</string>
+    <string name="created_at">Created At: %s</string>
+    <string name="updated_at">Updated At: %s</string>
+    <string name="clone_url">Clone URL: %s</string>
+    <string name="title_home">Oneframe MVVM</string>
+    <string name="title_dashboard">dashboard</string>
+    <string name="title_notifications">notifications</string>
+</resources>
